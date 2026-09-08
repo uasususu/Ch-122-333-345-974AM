@@ -1,0 +1,17 @@
+{
+  "name": "ugc-leaks-notifier",
+  "version": "1.0.0",
+  "description": "UGC Leaks scraper + Discord webhook notifier (Playwright + Node)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "uasususu",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.4",
+    "dotenv": "^16.3.1",
+    "playwright": "^1.44.0"
+  }
+}
+
